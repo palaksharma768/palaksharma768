@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Palak Sharma!
 
-<!--
-**palaksharma768/palaksharma768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Python | Tkinter | MySQL | Web Development Enthusiast
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: **Online Exam System using Python, Tkinter & MySQL**
+- 🌱 I’m learning: Advanced Python, OOP, GUI Design, DSA
+- 🎯 Goals: Improve my project with multiple subjects & result analytics
+- 📫 Reach me at: palaksharmaapp768@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Tools
+- **Languages:** Python, C, C++, HTML, CSS
+- **Database:** MySQL
+- **Frameworks / GUI:** Tkinter
+- **Tools:** Git, GitHub, VS Code
