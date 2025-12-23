@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 Skills & Tools
-- **Languages:** Python, C, C++, HTML, CSS
+- **Languages:** Python, C, C++, HTML, CSS, Javasript
 - **Database:** MySQL
 - **Frameworks / GUI:** Tkinter
 - **Tools:** Git, GitHub, VS Code
