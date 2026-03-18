@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Palak Sharma!
 
-### 💻 Python | Tkinter | MySQL | Web Development Enthusiast | React
+### 💻 Python | Tkinter | MySQL |Data Analyst | Web Development Enthusiast | React
 
 - 🔭 I’m currently working on: **Online Exam System using Python, Tkinter & MySQL**
 - 🌱 I’m learning: Advanced Python, OOP, GUI Design, DSA
